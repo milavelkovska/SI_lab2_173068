@@ -4,5 +4,4 @@
 
 Мила Велковска, бр. на индекс 173068
 
-Control Flow Graph
-Фотографија од control flow graph-ot:
+Control Flow Graph:
